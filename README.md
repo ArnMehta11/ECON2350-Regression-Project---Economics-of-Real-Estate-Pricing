@@ -1,0 +1,2 @@
+# ECON2350-Regression-Project---Economics-of-Real-Estate-Pricing
+This project focuses on applying regression analysis to the economics of real estate pricing. We are given a dataset which contains information on home sales including the sale price (Price), square foot (SqFt), number of bedrooms (Beds), and bathrooms (Baths), the objective is to understand how these characteristics influence housing values.
